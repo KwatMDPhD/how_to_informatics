@@ -9,4 +9,3 @@ https://robohub.org/talking-machines-ai-safety-and-the-legacy-of-bletchley-park-
 
 Claude Shannon
 https://www.youtube.com/watch?v=z2Whj_nL-x8
-
